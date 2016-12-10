@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dominique A. Ryan</title>
+    <link>https://dominiquealis.github.io/portfolio/index.xml</link>
+    <description>Recent content on Dominique A. Ryan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 06 Dec 2016 15:11:06 -0500</lastBuildDate>
+    <atom:link href="https://dominiquealis.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Welcome</title>
+      <link>https://dominiquealis.github.io/portfolio/post/Welcome/</link>
+      <pubDate>Tue, 06 Dec 2016 15:11:06 -0500</pubDate>
+      
+      <guid>https://dominiquealis.github.io/portfolio/post/Welcome/</guid>
+      <description>&lt;!DOCTYPE html&gt;
+&lt;html lang=&#34;en&#34;&gt;
+&lt;head&gt;
+	&lt;meta charset=&#34;UTF-8&#34;&gt;
+	&lt;title&gt;Document&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;
+
+	Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, eveniet, reprehenderit! Reiciendis laborum nihil optio mollitia quae omnis, eius quod debitis dolorem autem suscipit, non, possimus nesciunt temporibus fuga ea.
+
+	Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sit ipsum reiciendis dignissimos provident hic magni expedita molestias illum, deleniti in dolore omnis quia repudiandae praesentium autem placeat laborum debitis quo.
+
+	Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam aspernatur nesciunt placeat eius incidunt quas, libero aliquam suscipit repudiandae iure, maiores pariatur eos corrupti odio, ab porro fugiat eaque hic.
+	
+&lt;/body&gt;
+&lt;/html&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
